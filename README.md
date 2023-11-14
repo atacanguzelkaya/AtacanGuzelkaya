@@ -12,8 +12,8 @@ Hello, I'm Atacan Guzelkaya. I graduated from Mechatronics Engineering and I am 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atacanguzelkaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atacanguzelkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atacanguzelkaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+//### 🔝 Top Contributed Repo
+//![](https://github-contributor-stats.vercel.app/api?username=atacanguzelkaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=atacanguzelkaya&icon=5&color=3)](https://visitcount.itsvg.in)
