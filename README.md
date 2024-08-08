@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Atacan Guzelkaya. I graduated from Mechatronics Engineering and I am interested in Full Stack and Backend software development.
+Hello, I'm Atacan Güzelkaya. I graduated from Mechatronics Engineering and I am interested in Full Stack Software Development.
 
 
 ## 🌐 Socials:
