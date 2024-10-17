@@ -1,10 +1,6 @@
 <div align="center">
-  <img height="150" src="https://www.atacanguzelkaya.com/static/media/avatar.f8b08a4cad187bf11fcc458c98cbf5f2.svg"  />
+  <img height="300" src="https://raw.githubusercontent.com/atacanguzelkaya/AtacanGuzelkaya/refs/heads/main/profileInfo.png"  />
 </div>
-
-###
-
-<h1 align="center">Hi There!<br>I'M ATACAN GÜZELKAYA</h1>
 
 ###
 
